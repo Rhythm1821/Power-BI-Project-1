@@ -1,1 +1,1 @@
-# Power-BI-project-1
+# Sales Data Visualization in Power BI
